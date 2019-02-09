@@ -1,5 +1,9 @@
 # Machine-Learning-Coursera-Andrew-Ng
-Exercises code in Matlab  
+Exercises code in Matlab 
+## Ex1:
+  - Implement linear regression.
+  - Modified 4 files: warmUpExercise.m, plotData.m, computeCost.m, gradientDescent.m
+  - Explanation: https://blog.csdn.net/u012583248/article/details/86790733
 ## Ex2:
   - Implement logistic regression and apply it to two different datasets.
   - Modified 5 files: plotData.m, sigmoid.m, costFunction.m, predict.m, costFunctionReg.m
