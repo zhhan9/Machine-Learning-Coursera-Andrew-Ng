@@ -20,3 +20,7 @@ Exercises code in Matlab
   - Implemented regularized linear regression and used it to study models with different bias-variance properties.
   - Modified 4 files: linearRegCostFunction.m, learningCurve.m, polyFeatures.m, validationCurve.m
   - Notes: https://blog.csdn.net/u012583248/article/details/87712646
+## Ex6:
+  - (1) Implemented SVM with Gaussion kernel; (2) used SVM with linear kernel to build a spam classifier.
+  - Modified 4 files: (1) gaussianKernel.m, dataset3Params.m; (2) processEmail.m, emailFeatures.m
+  - Notes: https://blog.csdn.net/u012583248/article/details/87781729
